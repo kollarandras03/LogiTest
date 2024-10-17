@@ -1,0 +1,4 @@
+repository "Lesson_05_06_07_08@zsofiata@cloud"
+  path "/"
+    br "/main"
+    co "/main"
